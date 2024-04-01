@@ -7,7 +7,7 @@ This repository contains the source code and assets for a full implementation of
 
 
 ,## Getting Started
-1. Clone the repository to your local machine using:   ```   git clone https://github.com/your-username/frogger-game.git   
+1. Clone the repository to your local machine using:   ```   git clone (https://github.com/RI-9/Frogger.git)
 ```2. Open the project in Unity using Unity Hub
 3. Select the appropriate scene for the version you wish to play (V1 or V2).
 4. Build and run the game in the Unity editor or export it to your desired platform.## ContributingContributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.## LicenseThis project is licensed under the MIT License.
